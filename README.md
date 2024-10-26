@@ -1,5 +1,5 @@
 # 🚴‍♀️ Habit Tracker - Cycling Edition 🚴‍♂️
-### Track Your Rides, Build Your Habit.<br>
+### Track Your Rides, Build Your Habit.
 ### A personal cycling journey, powered by Python and the Pixela API.
 
 ## 🌟 Project Overview
