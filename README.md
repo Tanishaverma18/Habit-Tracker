@@ -1,6 +1,7 @@
 # 🚴‍♀️ Habit Tracker - Cycling Edition 🚴‍♂️
-### Track Your Rides, Build Your Habit.
-### A personal cycling journey, powered by Python and the Pixela API.
+#### Track Your Rides, Build Your Habit.
+#### A personal cycling journey, powered by Python and the Pixela API.
+
 
 ## 🌟 Project Overview
 Habit Tracker is a Python-powered app designed to help you build a consistent cycling habit. Using the Pixela API, this project visualizes your cycling progress, motivates you to stay on track, and makes it easy to see how far you’ve come by creating a pixel -> pixel color changes reflect the kilometers covered.!
